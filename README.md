@@ -1,11 +1,12 @@
-![Image](https://github.com/user-attachments/assets/f9f1993c-c585-49cb-8d72-d5deb098db77)
+![Image](https://github.com/user-attachments/assets/26a92a2c-ea27-43ac-8f44-8a6682c354cd)
+![Image](https://github.com/user-attachments/assets/6bfa71e5-9e53-4257-94b7-c44302ea309a)
+![Image](https://github.com/user-attachments/assets/459153e8-6645-4825-8ddd-50829b414fef)
 
-The Retinal Scan Analyser takes a Retinal scan image, rescales it and predicts the disease.
-(for instance this retinal scan is of a person suffering from glaucoma)
+
 
 Open this code in JupyterNotebook.
 
-"ML_OCT.ipynb" is the code used to train the model.
+"ML HCK TRN.ipynb" is the code used to train the model.
 "OCT_model.hb" and "OCT_model.keras" are the trained model.
 "Retinal_Scan_Analyser.ipynb" is the code that implements the already trained model.
 
