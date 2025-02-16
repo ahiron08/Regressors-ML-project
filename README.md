@@ -3,4 +3,4 @@
 The Retinal Scan Analyser takes a Retinal scan image, rescales it and predicts the disease.
 (for instance this retinal scan is of a person suffering from glaucoma)
 
-Open this code inn JupyterNotebook
+Open this code in JupyterNotebook
