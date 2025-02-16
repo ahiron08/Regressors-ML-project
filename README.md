@@ -8,3 +8,5 @@ Open this code in JupyterNotebook.
 "ML_OCT.ipynb" is the code used to train the model.
 "OCT_model.hb" and "OCT_model.keras" are the trained model.
 "Retinal_Scan_Analyser.ipynb" is the code that implements the already trained model.
+
+We are using kaggle API for the dataset. Please install your api key from kaggle's website to use this code.
