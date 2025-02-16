@@ -1,8 +1,11 @@
 ![Image](https://github.com/user-attachments/assets/26a92a2c-ea27-43ac-8f44-8a6682c354cd)
+Denoising of the image
+
 ![Image](https://github.com/user-attachments/assets/6bfa71e5-9e53-4257-94b7-c44302ea309a)
 ![Image](https://github.com/user-attachments/assets/459153e8-6645-4825-8ddd-50829b414fef)
 
-
+The model is trained to categorize diseases by analysing the OCT scan.
+(This person is suffering from diabetic macular edema)
 
 Open this code in JupyterNotebook.
 
