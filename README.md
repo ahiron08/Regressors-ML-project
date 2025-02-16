@@ -1,4 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/26a92a2c-ea27-43ac-8f44-8a6682c354cd)
+
 Denoising of the image
 
 ![Image](https://github.com/user-attachments/assets/6bfa71e5-9e53-4257-94b7-c44302ea309a)
