@@ -11,7 +11,7 @@ The model is trained to categorize diseases by analysing the OCT scan.
 Open this code in JupyterNotebook.
 
 "ML HCK TRN.ipynb" is the code used to train the model.
-"OCT_model.hb" and "OCT_model.keras" are the trained model.
-"Retinal_Scan_Analyser.ipynb" is the code that implements the already trained model.
+"OCT_model.h5" and "OCT_model.keras" are the trained models.
+"Retinal_Scan_Analyser.ipynb" is the code that implements the already trained model to analyse OCT scans.
 
 We are using kaggle API for the dataset. Please install your api key from kaggle's website to use this code.
