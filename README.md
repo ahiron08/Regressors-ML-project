@@ -1,5 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/99bc0003-7d3d-4774-b08e-d020aea107a6)
 Enhancing of the image
+
 Download the enhancer model from the link:
     https://drive.google.com/file/d/17rsG2nBNRyKqwrI1eBGizzAU3Y8Ihk3R/view?usp=sharing
 
@@ -13,7 +14,9 @@ Open this code in JupyterNotebook.
 
 "ML HCK TRN.ipynb" is the code used to train the model.
 "OCT_model.h5" and "OCT_model.keras" are the trained models.
+
 "Retinal_Scan_Analyser.ipynb" is the code that implements the already trained model to analyse OCT scans.
+
 "Enhancer.ipynb" is the code that enhances the OCT scans.
 
 
