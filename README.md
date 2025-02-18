@@ -1,5 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/99bc0003-7d3d-4774-b08e-d020aea107a6)
 Enhancing of the image
+Download the enhancer model from the link:
+    https://drive.google.com/file/d/17rsG2nBNRyKqwrI1eBGizzAU3Y8Ihk3R/view?usp=sharing
 
 ![Image](https://github.com/user-attachments/assets/6bfa71e5-9e53-4257-94b7-c44302ea309a)
 ![Image](https://github.com/user-attachments/assets/459153e8-6645-4825-8ddd-50829b414fef)
